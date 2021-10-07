@@ -1,5 +1,5 @@
 ## cell-coloc-3D
-##### Adam Tyson | 2018-04-19 | adam.tyson@icr.ac.uk
+##### Adam Tyson | 2018-04-19 | adam.tyson01@icr.ac.uk
 
 #### Allows manual identification of individual objects in a 3D image. Cells in each object are automatically segmented, and various parameters are returned, including intensity of a secondary marker in a different channel.
 
